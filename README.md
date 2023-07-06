@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Menna Mahran</h1>
 <h3 align="center">A passionate Nanotechnologist & Frontend developer from Egypt</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/mennamsami/mennaMsami/assets/138659872/4a1369de-daaa-4810-85cd-ec95bcf31964)">
->
+<img align="right" alt="coding" width="400" src="https://github.com/mennamsami/mennaMsami/assets/138659872/ac69a9ee-7952-47ce-9833-3202497e5330">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mennamsami&label=Profile%20views&color=0e75b6&style=flat" alt="mennamsami" /> </p>
 
 - 🌱 I’m currently learning **Web development frameworks , AI**
