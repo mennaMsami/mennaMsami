@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Web development frameworks , AI**
 
-- 📫 How to reach me **mennamahransalama@gmail.com**
+- 📫 How to reach me **mennamahranss@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
