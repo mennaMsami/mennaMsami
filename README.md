@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://github.com/mennamsami/mennaMsami/assets/138659872/d72893dd-f704-40d3-a21b-c4d1905df9af">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mennamsami&label=Profile%20views&color=0e75b6&style=flat" alt="mennamsami" /> </p>
 
-- 🌱 I’m currently learning **Web development frameworks , AI**
+- 🌱 I’m currently learning **Web development frameworks , Robotics, AI**
 
 - 📫 How to reach me **mennamahranss@yahoo.com**
 
